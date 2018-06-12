@@ -11,3 +11,10 @@ npm install express body-parser mongojs --save
 
 TO install mongodb in ubuntu 16.04 follow the given link:
 https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-16-04
+
+
+In this project I have used angular-cli to manage and develop angular applications.
+To install nagular-cli globally run the following command:
+
+npm install -g angular-cli
+
