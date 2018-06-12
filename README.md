@@ -16,5 +16,5 @@ https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubunt
 In this project I have used angular-cli to manage and develop angular applications.
 To install nagular-cli globally run the following command:
 
-npm install -g angular-cli
+npm install -g @angular/cli
 
