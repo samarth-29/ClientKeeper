@@ -1,5 +1,5 @@
 # ClientKeeper
-A complete MEAN Stack Application.
+Server side Application
 
 
 To create the package.json run the following command:
@@ -18,3 +18,5 @@ To install nagular-cli globally run the following command:
 
 npm install -g @angular/cli
 
+You will find entire application on the given link:
+https://github.com/samarth-29/ClientKeeper-Angular-Front-end
